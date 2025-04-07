@@ -1,0 +1,222 @@
+[
+  {
+    "Title": "The Silent Witness",
+    "Author": "Emily R. James",
+    "Isbn": "978-0-987-65432-1",
+    "Description": "A gripping psychological thriller that delves into the complexities of memory, identity, and betrayal.",
+    "Price": 14.99,
+    "CoverImageUrl": "https://picsum.photos/id/24/200/300",
+    "Genre": "Mystery/Thriller",
+    "Publisher": "Shadow Press",
+    "QuantityInStock": 200
+  },
+  {
+    "Title": "Echoes of the Void",
+    "Author": "Marcus Chen",
+    "Isbn": "978-1-543-21098-7",
+    "Description": "A space opera spanning generations as humanity searches for a new home among the stars.",
+    "Price": 18.50,
+    "CoverImageUrl": "https://picsum.photos/id/36/200/300",
+    "Genre": "Science Fiction",
+    "Publisher": "Stellar Books",
+    "QuantityInStock": 150
+  },
+  {
+    "Title": "Whispers in the Wind",
+    "Author": "Sophia Williams",
+    "Isbn": "978-6-789-01234-5",
+    "Description": "A heartwarming story about finding love and belonging in a small coastal town.",
+    "Price": 12.99,
+    "CoverImageUrl": "https://picsum.photos/id/43/200/300",
+    "Genre": "Romance",
+    "Publisher": "Heartsong Publishing",
+    "QuantityInStock": 180
+  },
+  {
+    "Title": "The Last Alchemist",
+    "Author": "Jonathan Blackwood",
+    "Isbn": "978-3-210-98765-4",
+    "Description": "In a world where magic is dying, one alchemist fights to preserve the ancient arts.",
+    "Price": 16.75,
+    "CoverImageUrl": "https://picsum.photos/id/57/200/300",
+    "Genre": "Fantasy",
+    "Publisher": "Mystic Owl Press",
+    "QuantityInStock": 120
+  },
+  {
+    "Title": "Shadows of Empire",
+    "Author": "Victoria Hayes",
+    "Isbn": "978-5-432-10987-6",
+    "Description": "A political intrigue set in an alternate Victorian era where the British Empire never fell.",
+    "Price": 19.99,
+    "CoverImageUrl": "https://picsum.photos/id/68/200/300",
+    "Genre": "Historical Fiction",
+    "Publisher": "Chronos Books",
+    "QuantityInStock": 90
+  },
+  {
+    "Title": "Beyond the Horizon",
+    "Author": "Carlos Mendoza",
+    "Isbn": "978-2-109-87654-3",
+    "Description": "A sailor's memoir of circumnavigating the globe alone, facing storms, pirates, and his own demons.",
+    "Price": 22.50,
+    "CoverImageUrl": "https://picsum.photos/id/75/200/300",
+    "Genre": "Non-Fiction",
+    "Publisher": "Voyager Publishing",
+    "QuantityInStock": 70
+  },
+  {
+    "Title": "The Quantum Garden",
+    "Author": "Dr. Alexandra Lee",
+    "Isbn": "978-9-876-54321-0",
+    "Description": "An accessible explanation of quantum physics through the metaphor of gardening and plant growth.",
+    "Price": 24.99,
+    "CoverImageUrl": "https://picsum.photos/id/82/200/300",
+    "Genre": "Non-Fiction",
+    "Publisher": "Stellar Books",
+    "QuantityInStock": 60
+  },
+  {
+    "Title": "Midnight Requiem",
+    "Author": "Vincent Graves",
+    "Isbn": "978-4-321-09876-5",
+    "Description": "A vampire detective must solve a series of ritualistic murders in New Orleans.",
+    "Price": 15.99,
+    "CoverImageUrl": "https://picsum.photos/id/91/200/300",
+    "Genre": "Fantasy",
+    "Publisher": "Shadow Press",
+    "QuantityInStock": 110
+  },
+  {
+    "Title": "The Art of Simplicity",
+    "Author": "Marie Tanaka",
+    "Isbn": "978-8-765-43210-9",
+    "Description": "A guide to decluttering your home and mind for a more peaceful existence.",
+    "Price": 20.50,
+    "CoverImageUrl": "https://picsum.photos/id/106/200/300",
+    "Genre": "Non-Fiction",
+    "Publisher": "Heartsong Publishing",
+    "QuantityInStock": 200
+  },
+  {
+    "Title": "Culinary Journeys",
+    "Author": "Chef Jean-Pierre Dubois",
+    "Isbn": "978-7-654-32109-8",
+    "Description": "A collection of recipes gathered from street food vendors across five continents.",
+    "Price": 29.99,
+    "CoverImageUrl": "https://picsum.photos/id/116/200/300",
+    "Genre": "Non-Fiction",
+    "Publisher": "Voyager Publishing",
+    "QuantityInStock": 85
+  },
+  {
+    "Title": "The Code Breaker",
+    "Author": "Alan Mitchell",
+    "Isbn": "978-2-345-67890-1",
+    "Description": "The thrilling true story of how a team of mathematicians cracked the Enigma code during World War II.",
+    "Price": 17.50,
+    "CoverImageUrl": "https://picsum.photos/id/127/200/300",
+    "Genre": "Historical Fiction",
+    "Publisher": "Chronos Books",
+    "QuantityInStock": 130
+  },
+  {
+    "Title": "Dreams of Tomorrow",
+    "Author": "Leila Hassan",
+    "Isbn": "978-5-678-90123-4",
+    "Description": "A young refugee's journey to build a new life in a foreign land, filled with challenges and hope.",
+    "Price": 13.99,
+    "CoverImageUrl": "https://picsum.photos/id/133/200/300",
+    "Genre": "Romance",
+    "Publisher": "Heartsong Publishing",
+    "QuantityInStock": 95
+  },
+  {
+    "Title": "The Mountain's Shadow",
+    "Author": "Bjorn Eriksson",
+    "Isbn": "978-1-234-56789-0",
+    "Description": "A tense murder mystery set in a remote Scandinavian village where ancient superstitions still hold sway.",
+    "Price": 16.50,
+    "CoverImageUrl": "https://picsum.photos/id/142/200/300",
+    "Genre": "Mystery/Thriller",
+    "Publisher": "Shadow Press",
+    "QuantityInStock": 75
+  },
+  {
+    "Title": "Whispers of the Ancients",
+    "Author": "Isabella Cruz",
+    "Isbn": "978-3-456-78901-2",
+    "Description": "An archaeologist discovers ancient texts that hint at a forgotten civilization with advanced technology.",
+    "Price": 21.75,
+    "CoverImageUrl": "https://picsum.photos/id/157/200/300",
+    "Genre": "Science Fiction",
+    "Publisher": "Stellar Books",
+    "QuantityInStock": 65
+  },
+  {
+    "Title": "Digital Revolution",
+    "Author": "Dr. Raj Patel",
+    "Isbn": "978-6-543-21098-7",
+    "Description": "An analysis of how artificial intelligence is transforming society, business, and personal privacy.",
+    "Price": 26.99,
+    "CoverImageUrl": "https://picsum.photos/id/169/200/300",
+    "Genre": "Non-Fiction",
+    "Publisher": "Mystic Owl Press",
+    "QuantityInStock": 110
+  },
+  {
+    "Title": "The Forgotten Garden",
+    "Author": "Elizabeth Montgomery",
+    "Isbn": "978-9-012-34567-8",
+    "Description": "A century-old mystery begins to unravel when a woman inherits a cottage with a walled garden from her grandmother.",
+    "Price": 15.50,
+    "CoverImageUrl": "https://picsum.photos/id/174/200/300",
+    "Genre": "Mystery/Thriller",
+    "Publisher": "Shadow Press",
+    "QuantityInStock": 90
+  },
+  {
+    "Title": "The Chess Master",
+    "Author": "Dmitri Volkov",
+    "Isbn": "978-4-567-89012-3",
+    "Description": "A fictionalized account of the Cold War rivalry between American and Soviet chess grandmasters.",
+    "Price": 18.99,
+    "CoverImageUrl": "https://picsum.photos/id/183/200/300",
+    "Genre": "Historical Fiction",
+    "Publisher": "Chronos Books",
+    "QuantityInStock": 70
+  },
+  {
+    "Title": "Healing Earth",
+    "Author": "Dr. Maya Green",
+    "Isbn": "978-7-890-12345-6",
+    "Description": "A practical guide to sustainable living and reducing your environmental impact.",
+    "Price": 23.50,
+    "CoverImageUrl": "https://picsum.photos/id/192/200/300",
+    "Genre": "Non-Fiction",
+    "Publisher": "Voyager Publishing",
+    "QuantityInStock": 120
+  },
+  {
+    "Title": "The Laughing Detective",
+    "Author": "Oscar Wilde Jr.",
+    "Isbn": "978-8-901-23456-7",
+    "Description": "A witty detective solves crimes in high society with humor and scathing social commentary.",
+    "Price": 14.50,
+    "CoverImageUrl": "https://picsum.photos/id/204/200/300",
+    "Genre": "Mystery/Thriller",
+    "Publisher": "Shadow Press",
+    "QuantityInStock": 85
+  },
+  {
+    "Title": "Starlight Rhapsody",
+    "Author": "Luna Silvermoon",
+    "Isbn": "978-0-123-45678-9",
+    "Description": "A young musician discovers she can manipulate reality through her music in this coming-of-age fantasy.",
+    "Price": 17.25,
+    "CoverImageUrl": "https://picsum.photos/id/225/200/300",
+    "Genre": "Fantasy",
+    "Publisher": "Mystic Owl Press",
+    "QuantityInStock": 150
+  }
+]
