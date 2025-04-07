@@ -1,0 +1,57 @@
+[
+  {
+    "Title": "Echoes of Starlight",
+    "Author": "Marcus L. Chen",
+    "Isbn": "978-1-543-21987-6",
+    "Description": "An epic space opera following a diverse crew of explorers who discover an ancient alien artifact that could change humanity's understanding of the universe.",
+    "Price": 17.99,
+    "CoverImageUrl": "https://picsum.photos/id/36/200/300",
+    "Genre": "Science Fiction",
+    "Publisher": "Nebula House",
+    "QuantityInStock": 150
+  },
+  {
+    "Title": "The Forgotten Garden",
+    "Author": "Sophia K. Williams",
+    "Isbn": "978-0-654-87321-4",
+    "Description": "A lyrical tale of family secrets spanning three generations, centered around a mysterious walled garden on an English estate.",
+    "Price": 12.99,
+    "CoverImageUrl": "https://picsum.photos/id/42/200/300",
+    "Genre": "Historical Fiction",
+    "Publisher": "Ivy Lane Books",
+    "QuantityInStock": 175
+  },
+  {
+    "Title": "Quantum Paradox",
+    "Author": "Alexander J. Thompson",
+    "Isbn": "978-3-219-76543-8",
+    "Description": "A mind-bending thriller where a physicist discovers her research has been weaponized, forcing her to confront ethical dilemmas while being hunted by government agents.",
+    "Price": 19.99,
+    "CoverImageUrl": "https://picsum.photos/id/15/200/300",
+    "Genre": "Techno-Thriller",
+    "Publisher": "Momentum Press",
+    "QuantityInStock": 120
+  },
+  {
+    "Title": "Whispers in the Willow",
+    "Author": "Natalie P. Blackwood",
+    "Isbn": "978-2-876-54391-5",
+    "Description": "A haunting tale set in rural Vermont where a young artist inherits a cottage with a mysterious past and discovers she can communicate with spirits through her paintings.",
+    "Price": 15.99,
+    "CoverImageUrl": "https://picsum.photos/id/68/200/300",
+    "Genre": "Supernatural",
+    "Publisher": "Midnight Ink",
+    "QuantityInStock": 185
+  },
+  {
+    "Title": "The Economics of Everything",
+    "Author": "Daniel R. Morrison",
+    "Isbn": "978-4-123-98765-2",
+    "Description": "An accessible exploration of how economic principles shape everyday decisions, from dating to career choices, written with humor and practical insights.",
+    "Price": 22.50,
+    "CoverImageUrl": "https://picsum.photos/id/91/200/300",
+    "Genre": "Non-Fiction",
+    "Publisher": "Paradigm Publishing",
+    "QuantityInStock": 210
+  }
+]
